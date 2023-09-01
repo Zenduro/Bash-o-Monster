@@ -7,7 +7,7 @@ Frostmourne Ice = new Frostmourne();
 Murlock Fishboy = new Murlock();
 
 Ice.Damage = 9000; 
-Fishboy = 5000; 
+Fishboy.hp = 5000; 
 
 Ice = new Frostmourne(); 
 Ice.ResetHp();  
